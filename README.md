@@ -1,5 +1,11 @@
 Assignment: CSS Hell
 ====================
+Modifications Made:
+- Changed paragraph colour when hovering.
+- Changed font for the body of text, poems, letters.
+- Added border and background colour to title.
+- Changed background to an off-white colour.
+
 
 You will skin 3 project gutenberg stories with custom CSS.
 
