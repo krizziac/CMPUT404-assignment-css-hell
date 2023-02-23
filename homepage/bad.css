@@ -1,0 +1,86 @@
+body{
+background-image: url("images/pinkglitter.jpeg");
+font-family: cursive,"Comic Sans MS", "Comic Sans";
+color:  #78ff5a;
+font-size: 20pt;
+}
+
+h1{
+    font-family: cursive;
+    text-align: center;
+    color:  #f10081;
+    text-shadow: 2px 12px 1px rgb(51, 44, 255);
+    font-size: 550%;
+}
+h2{
+    font-family:cursive,"Comic Sans MS", "Comic Sans";
+    color: rgb(234, 255, 42);
+}
+h3{
+    color:red;
+}
+h4{
+    font-family:cursive,"Comic Sans MS", "Comic Sans";
+    color: #f10081;
+}
+h5{
+    font-size: 15pt;
+    font-family:cursive,"Comic Sans MS", "Comic Sans";
+    color:rgb(140, 0, 255);
+}
+.aboutMe{
+    display:grid;
+    align-items: center; 
+    grid-template-columns: 1fr 2fr 1fr;
+    column-gap: 25pt;
+}
+.aboutMeText{
+    font-size: 15pt;
+}
+.backend{
+    font-size:15pt
+}
+.job-experience{
+    font-size: 15;
+}
+.info{
+    padding-left: 5%;
+}
+img{
+    width: 150pt;
+    height:200pt;
+    padding-left: 25%;
+    transform:rotate(1210deg);
+}
+img:hover{
+    transform: rotate(360deg) scale(2);
+    transition: all 1s;
+  
+}
+.sub-backend{
+    padding-left: 2%;
+}
+
+ul.nav{
+    background-color: #000000;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #78ff5a;
+}
+
+li{
+    display: inline;
+    float:left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li:hover{
+    background-color: #f10081;
+}
+
