@@ -10,6 +10,7 @@ h1{
     text-align: center;
     color:  #f10081;
     text-shadow: 2px 12px 1px rgb(51, 44, 255);
+    margin-left: 300pt;
     font-size: 550%;
 }
 h2{
@@ -17,7 +18,7 @@ h2{
     color: rgb(234, 255, 42);
 }
 h3{
-    color:red;
+    color:rgb(0, 255, 26);
 }
 h4{
     font-family:cursive,"Comic Sans MS", "Comic Sans";
@@ -28,12 +29,7 @@ h5{
     font-family:cursive,"Comic Sans MS", "Comic Sans";
     color:rgb(140, 0, 255);
 }
-.aboutMe{
-    display:grid;
-    align-items: center; 
-    grid-template-columns: 1fr 2fr 1fr;
-    column-gap: 25pt;
-}
+
 .aboutMeText{
     font-size: 15pt;
 }
@@ -57,30 +53,27 @@ img:hover{
     transition: all 1s;
   
 }
+
+.topbar{
+    background-color: rgb(18, 253, 14);
+    height: 350pt;
+    width: 300pt;
+    position: absolute;    
+}
+.topbar a{
+  padding: 3pt 25pt;
+  text-decoration: none;
+  font-size: 17pt;
+  color: #ffe552;
+  display: block;
+
+}
+.topbar a:hover{
+    background-color: #f10081;
+}
 .sub-backend{
     padding-left: 2%;
 }
 
-ul.nav{
-    background-color: #000000;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #78ff5a;
-}
 
-li{
-    display: inline;
-    float:left;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li:hover{
-    background-color: #f10081;
-}
 
