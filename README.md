@@ -6,6 +6,11 @@ Modifications Made:
 - Added border and background colour to title.
 - Changed background to an off-white colour.
 
+Resources Used (Part 2):
+- Link (Author not specified): https://www.w3schools.com/howto/howto_css_sidebar_icons.asp
+- Link (Author specified): https://www.w3schools.com/howto/howto_css_navbar_image.asp
+- Link (License: CC-BY-4.0, Author not specified): https://www.30secondsofcode.org/css/s/image-hover-rotate
+
 
 You will skin 3 project gutenberg stories with custom CSS.
 
@@ -21,7 +26,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 License/Copyright
 =================
 
-2023 Krizzia Concepcion CC BY-SA
+Content License: 2023 Krizzia Concepcion CC BY-SA 4.0
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
